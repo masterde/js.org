@@ -609,6 +609,7 @@ var cnames_active = {
   "commandfox": "commandfox.github.io/mc-tools", // noCF? (don´t add this in a new PR)
   "commandkit": "cname.vercel-dns.com", // noCF
   "commitlint": "conventional-changelog.github.io/commitlint",
+  "commerce": "commerce-js.github.io/commerce.js"
   "common-utils": "common-utils.netlify.app",
   "common-utils-pkg": "iamdevlinph.github.io/common-utils-pkg",
   "compactr": "compactr.github.io",
